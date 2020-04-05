@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0237696-ef81-4d0b-90ea-c30fc9bd48e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="K:/apache-maven-3.5.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4WvhxzAmJPqW3uwM9ft1xoQ9r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\JavaTestDemo\dealExcel\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.startExcelApplication">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="dealExcel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mmmf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dealExcel.ggg.mmmf" />
+      <module name="dealExcel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dealExcel.ggg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dealApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dealExcel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dealExcel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dealExcel.dealApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="startExcelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dealExcel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dealExcel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dealExcel.startExcelApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.startExcelApplication" />
+        <item itemvalue="Application.mmmf" />
+        <item itemvalue="Spring Boot.dealApplication" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0237696-ef81-4d0b-90ea-c30fc9bd48e9" name="Default Changelist" comment="" />
+      <created>1585995578275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585995578275</updated>
+      <workItem from="1585995584615" duration="1910000" />
+      <workItem from="1586000936073" duration="28174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="6" key="#Project_Structure" timestamp="1586000487523">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="232" y="6" key="#Project_Structure/0.0.1280.690@0.0.1280.690" timestamp="1586000487523" />
+    <state x="379" y="153" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586002710180">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="379" y="153" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.690@0.0.1280.690" timestamp="1586002710180" />
+    <state width="438" height="449" key="DebuggerActiveHint" timestamp="1586052726988">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="438" height="449" key="DebuggerActiveHint/0.0.1280.690@0.0.1280.690" timestamp="1586052726988" />
+    <state x="420" y="102" key="FileChooserDialogImpl" timestamp="1585996067411">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="420" y="102" key="FileChooserDialogImpl/0.0.1280.690@0.0.1280.690" timestamp="1585996067411" />
+    <state width="1237" height="158" key="GridCell.Tab.0.bottom" timestamp="1586058537298">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1586058537298" />
+    <state width="1237" height="158" key="GridCell.Tab.0.center" timestamp="1586058537297">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1586058537297" />
+    <state width="1237" height="158" key="GridCell.Tab.0.left" timestamp="1586058537297">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1586058537297" />
+    <state width="1237" height="158" key="GridCell.Tab.0.right" timestamp="1586058537298">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1586058537298" />
+    <state width="1237" height="158" key="GridCell.Tab.1.bottom" timestamp="1586058537298">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.1.bottom/0.0.1280.690@0.0.1280.690" timestamp="1586058537298" />
+    <state width="1237" height="158" key="GridCell.Tab.1.center" timestamp="1586058537298">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.1.center/0.0.1280.690@0.0.1280.690" timestamp="1586058537298" />
+    <state width="1237" height="158" key="GridCell.Tab.1.left" timestamp="1586058537298">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.1.left/0.0.1280.690@0.0.1280.690" timestamp="1586058537298" />
+    <state width="1237" height="158" key="GridCell.Tab.1.right" timestamp="1586058537298">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.1.right/0.0.1280.690@0.0.1280.690" timestamp="1586058537298" />
+    <state width="1237" height="153" key="GridCell.Tab.2.bottom" timestamp="1586053369596">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="153" key="GridCell.Tab.2.bottom/0.0.1280.690@0.0.1280.690" timestamp="1586053369596" />
+    <state width="1237" height="153" key="GridCell.Tab.2.center" timestamp="1586053369596">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="153" key="GridCell.Tab.2.center/0.0.1280.690@0.0.1280.690" timestamp="1586053369596" />
+    <state width="1237" height="153" key="GridCell.Tab.2.left" timestamp="1586053369596">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="153" key="GridCell.Tab.2.left/0.0.1280.690@0.0.1280.690" timestamp="1586053369596" />
+    <state width="1237" height="153" key="GridCell.Tab.2.right" timestamp="1586053369596">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1237" height="153" key="GridCell.Tab.2.right/0.0.1280.690@0.0.1280.690" timestamp="1586053369596" />
+    <state x="120" y="0" key="SettingsEditor" timestamp="1586047092839">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="120" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1586047092839" />
+    <state x="194" y="83" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586012887545">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="194" y="83" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.690@0.0.1280.690" timestamp="1586012887545" />
+    <state x="303" y="11" width="672" height="678" key="search.everywhere.popup" timestamp="1586057776100">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="303" y="11" width="672" height="678" key="search.everywhere.popup/0.0.1280.690@0.0.1280.690" timestamp="1586057776100" />
+  </component>
+</project>
